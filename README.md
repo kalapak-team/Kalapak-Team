@@ -51,7 +51,7 @@
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #7b2fff;" alt="Khat Vanna"/>
+        <img src="https://res.cloudinary.com/di1hdlb8k/image/upload/v1774509040/Khat_Vanna_gohq9f.jpg" width="130px" height="130px" style="border-radius:50%;border:3px solid #7b2fff;" alt="Khat Vanna"/>
       </a>
       <br/><br/>
       <b>✨ Khat Vanna</b>
@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #4f46e5;" alt="Rom Chamraeun"/>
+        <img src="https://res.cloudinary.com/di1hdlb8k/image/upload/v1774509041/Rom_Chamraeun_bbk9uo.jpg" width="130px" height="130px" style="border-radius:50%;border:3px solid #4f46e5;" alt="Rom Chamraeun"/>
       </a>
       <br/><br/>
       <b>✨ Rom Chamraeun</b>
@@ -77,7 +77,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #0ea5e9;" alt="Phuem Norng"/>
+        <img src="https://res.cloudinary.com/di1hdlb8k/image/upload/v1774509041/Phuem_Norng_wxw0h6.jpg" width="130px" height="130px" style="border-radius:50%;border:3px solid #0ea5e9;" alt="Phuem Norng"/>
       </a>
       <br/><br/>
       <b>✨ Phuem Norng</b>
@@ -90,7 +90,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #06b6d4;" alt="Pheun Seanghai"/>
+        <img src="https://res.cloudinary.com/di1hdlb8k/image/upload/v1774509041/Pheun_Seanghai_wxdfba.jpg" width="130px" height="130px" style="border-radius:50%;border:3px solid #06b6d4;" alt="Pheun Seanghai"/>
       </a>
       <br/><br/>
       <b>✨ Pheun Seanghai</b>
