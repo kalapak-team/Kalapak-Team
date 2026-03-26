@@ -1,25 +1,25 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a10,65:003320,100:00ff41&height=130&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=130&section=header" width="100%"/>
 
 <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130" alt="Kalapak Code Team Logo"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=2500&color=00FF41&center=true&vCenter=true&width=720&height=72&lines=%3E_+KALAPAK+CODE+TEAM)](https://github.com/Kalapak-Team)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=2500&color=FFFFFF&center=true&vCenter=true&width=720&height=72&lines=KALAPAK+CODE+TEAM)](https://github.com/Kalapak-Team)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=42&lines=%24+.%2Fcode+--universe+--since%3D2024;%E2%9C%94+Full-Stack+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+Mobile;%3E+Research.+Develop.+Inspire.+Help.;%5BKH%5D+Building+the+Future+from+Cambodia)](https://github.com/Kalapak-Team)
-
-<br/>
-
-![Members](https://img.shields.io/badge/👥_Members-4-00ff41?style=for-the-badge&labelColor=0d1117)&nbsp;
-![Since](https://img.shields.io/badge/📅_Since-2024-00e5ff?style=for-the-badge&labelColor=0d1117)&nbsp;
-![Cambodia](https://img.shields.io/badge/🇰🇭-Cambodia-39ff14?style=for-the-badge&labelColor=0d1117)&nbsp;
-![Status](https://img.shields.io/badge/⚡_Status-Active-00ffaa?style=for-the-badge&labelColor=0d1117)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&height=42&lines=%E2%9C%A8+Coding+the+Universe+Since+2024+%E2%9C%A8;%F0%9F%9A%80+Full-Stack+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+Mobile;%E2%9A%A1+Research.+Develop.+Inspire.+Help.;%F0%9F%8C%8C+Building+the+Future+from+Cambodia)](https://github.com/Kalapak-Team)
 
 <br/>
 
-> 💻 **`{ Kalapak Code Team }`** &nbsp;·&nbsp; `Full-Stack` · `AI` · `Cloud` · `Mobile` &nbsp;·&nbsp; `// Cambodia 🇰🇭`
+![Members](https://img.shields.io/badge/👥-4%20Members-a78bfa?style=for-the-badge&labelColor=0d1117)&nbsp;
+![Since](https://img.shields.io/badge/📅-Since%202024-00d4ff?style=for-the-badge&labelColor=0d1117)&nbsp;
+![Cambodia](https://img.shields.io/badge/🇰🇭-Cambodia-7b2fff?style=for-the-badge&labelColor=0d1117)&nbsp;
+![Status](https://img.shields.io/badge/⚡-Active-00ff88?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+> 🚀 **Building the Future from Cambodia** &nbsp;·&nbsp; 🌌 Full-Stack · AI · Cloud · Mobile &nbsp;·&nbsp; ⚡ Research. Develop. Inspire. Help.
 
 </div>
 
