@@ -1,14 +1,15 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=220&section=header&text=KALAPAK%20CODE%20TEAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=✨%20Coding%20the%20Universe%20Since%202024%20✨&descAlignY=78&descColor=c4b5fd&descSize=16" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=160&section=header" width="100%"/>
 
 <a href="https://github.com/Kalapak-Team">
   <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="120px" height="120px" style="border-radius:50%;border:4px solid #7b2fff;margin-top:-60px;" alt="Kalapak Code Team Logo"/>
 </a>
 
-<br/><br/>
+<h1>KALAPAK CODE TEAM</h1>
+<p><b>✨ Coding the Universe Since 2024 ✨</b></p>
+
+<br/>
 
 ![Members](https://img.shields.io/badge/👥-4%20Members-a78bfa?style=for-the-badge&labelColor=0d1117)&nbsp;
 ![Since](https://img.shields.io/badge/📅-Since%202024-00d4ff?style=for-the-badge&labelColor=0d1117)&nbsp;
