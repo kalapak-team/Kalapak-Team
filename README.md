@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="120px" height="120px" style="border-radius:50%;border:4px solid #7b2fff;" alt="Kalapak Code Team Logo"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=3500&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=820&height=55&lines=🚀+Building+the+Future+from+Cambodia+🇰🇭;🌌+Full-Stack+%7C+AI+%7C+Cloud+%7C+Mobile+Development;⚡+Research.+Develop.+Inspire.+Help.;🌟+Kalapak+Code+Team+—+Est.+2024" alt="Typing SVG" />
 
 <br/><br/>
@@ -45,7 +49,7 @@
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Khat%20Vanna&backgroundColor=7b2fff&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Khat Vanna"/>
+        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #7b2fff;" alt="Khat Vanna"/>
       </a>
       <br/><br/>
       <b>✨ Khat Vanna</b>
@@ -58,7 +62,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Rom%20Chamraeun&backgroundColor=4f46e5&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Rom Chamraeun"/>
+        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #4f46e5;" alt="Rom Chamraeun"/>
       </a>
       <br/><br/>
       <b>✨ Rom Chamraeun</b>
@@ -71,7 +75,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Phuem%20Norng&backgroundColor=0ea5e9&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Phuem Norng"/>
+        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #0ea5e9;" alt="Phuem Norng"/>
       </a>
       <br/><br/>
       <b>✨ Phuem Norng</b>
@@ -84,7 +88,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Kalapak-Team">
-        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Pheun%20Seanghai&backgroundColor=06b6d4&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Pheun Seanghai"/>
+        <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130px" height="130px" style="border-radius:50%;border:3px solid #06b6d4;" alt="Pheun Seanghai"/>
       </a>
       <br/><br/>
       <b>✨ Pheun Seanghai</b>
