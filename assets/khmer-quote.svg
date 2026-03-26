@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" width="900" height="96">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Moul&amp;display=swap');
+      .quote-text {
+        font-family: 'Moul', serif;
+        font-size: 21px;
+        fill: #fbbf24;
+        dominant-baseline: middle;
+        text-anchor: middle;
+      }
+      .star {
+        fill: #fbbf24;
+        font-size: 20px;
+        dominant-baseline: middle;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <rect width="900" height="96" rx="12" fill="#0d1117"/>
+  <!-- decorative left star -->
+  <text class="star" x="36" y="48">✦</text>
+  <!-- Khmer quote text -->
+  <text class="quote-text" x="450" y="48">ជីវិតដែលរស់នៅដើម្បីអ្នកដទៃ  ·  ទើបជាជីវិតដែលមានតម្លៃ</text>
+  <!-- decorative right star -->
+  <text class="star" x="864" y="48">✦</text>
+</svg>

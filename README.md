@@ -230,8 +230,8 @@
   <tr>
     <td align="center">
       <br/>
-      <h3>🌟 &nbsp; ជីវិតដែលរស់នៅដើម្បីអ្នកដទៃ &nbsp; ទើបជាជីវិតដែលមានតម្លៃ &nbsp; 🌟</h3>
-      <br/>
+      <img src="./assets/khmer-quote.svg" alt="ជីវិតដែលរស់នៅដើម្បីអ្នកដទៃ ទើបជាជីវិតដែលមានតម្លៃ" width="100%"/>
+      <br/><br/>
       <b><i>"A life lived for others is the only life worth living."</i></b>
       <br/><br/>
     </td>
