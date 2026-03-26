@@ -260,7 +260,7 @@
       <br/><br/>
       📚
       <br/>
-      <b>ចងក្រង</b>
+      <b>DOCUMENT</b>
       <br/><br/>
       <sub>Compile &amp; document knowledge for the entire community</sub>
     </td>
@@ -278,7 +278,7 @@
       <br/><br/>
       🌟
       <br/>
-      <b>បង្ហាញ</b>
+      <b>SHOWCASE</b>
       <br/><br/>
       <sub>Showcase our work and share ideas with the world</sub>
     </td>
@@ -287,7 +287,7 @@
       <br/><br/>
       🤝
       <br/>
-      <b>ជួយអ្នកដទៃ</b>
+      <b>HELP OTHERS</b>
       <br/><br/>
       <sub>Uplift &amp; empower people through code and shared knowledge</sub>
     </td>
