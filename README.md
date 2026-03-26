@@ -1,8 +1,4 @@
-<div align="center">
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                      GALAXY HEADER                             -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=320&section=header&text=⚡%20KALAPAK%20CODE%20TEAM%20⚡&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Coding%20the%20Universe%20Since%202024%20✨&descAlignY=62&descColor=c4b5fd" width="100%"/>
 
@@ -23,10 +19,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                        ABOUT US                                -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
   <h2>🌌 About Kalapak Code Team</h2>
 </div>
@@ -43,10 +35,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       OUR TEAM                                 -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 ## 👥 Our Cosmic Crew
@@ -56,8 +44,9 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <!-- Replace with actual image: https://github.com/[username].png -->
-      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Khat%20Vanna&backgroundColor=7b2fff&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Khat Vanna"/>
+      <a href="https://github.com/Kalapak-Team">
+        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Khat%20Vanna&backgroundColor=7b2fff&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Khat Vanna"/>
+      </a>
       <br/><br/>
       <b>✨ Khat Vanna</b>
       <br/>
@@ -68,8 +57,9 @@
       <img src="https://img.shields.io/badge/FOUNDER%20%26%20LEADER-7b2fff?style=flat-square&logoColor=white" alt="Founder Badge"/>
     </td>
     <td align="center" width="25%">
-      <!-- Replace with actual image: https://github.com/[username].png -->
-      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Rom%20Chamraeun&backgroundColor=4f46e5&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Rom Chamraeun"/>
+      <a href="https://github.com/Kalapak-Team">
+        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Rom%20Chamraeun&backgroundColor=4f46e5&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Rom Chamraeun"/>
+      </a>
       <br/><br/>
       <b>✨ Rom Chamraeun</b>
       <br/>
@@ -80,8 +70,9 @@
       <img src="https://img.shields.io/badge/CO--FOUNDER-4f46e5?style=flat-square&logoColor=white" alt="Co-Founder Badge"/>
     </td>
     <td align="center" width="25%">
-      <!-- Replace with actual image: https://github.com/[username].png -->
-      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Phuem%20Norng&backgroundColor=0ea5e9&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Phuem Norng"/>
+      <a href="https://github.com/Kalapak-Team">
+        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Phuem%20Norng&backgroundColor=0ea5e9&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Phuem Norng"/>
+      </a>
       <br/><br/>
       <b>✨ Phuem Norng</b>
       <br/>
@@ -92,8 +83,9 @@
       <img src="https://img.shields.io/badge/CO--FOUNDER-0ea5e9?style=flat-square&logoColor=white" alt="Co-Founder Badge"/>
     </td>
     <td align="center" width="25%">
-      <!-- Replace with actual image: https://github.com/[username].png -->
-      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Pheun%20Seanghai&backgroundColor=06b6d4&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Pheun Seanghai"/>
+      <a href="https://github.com/Kalapak-Team">
+        <img src="https://api.dicebear.com/7.x/initials/svg?seed=Pheun%20Seanghai&backgroundColor=06b6d4&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Pheun Seanghai"/>
+      </a>
       <br/><br/>
       <b>✨ Pheun Seanghai</b>
       <br/>
@@ -106,18 +98,34 @@
   </tr>
 </table>
 
-> 💡 **Tip:** Replace the profile image `src` URLs above with actual GitHub profile pictures:
-> `https://github.com/[username].png` or `https://avatars.githubusercontent.com/u/[user-id]?v=4`
-
 </div>
 
 <br/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                      TECH UNIVERSE                             -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+
+## 📊 GitHub Activity
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalapak-Team&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&icon_color=00d4ff&text_color=c4b5fd&ring_color=7b2fff)](https://github.com/Kalapak-Team)&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalapak-Team&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&text_color=c4b5fd&langs_count=8)](https://github.com/Kalapak-Team)
+
+<br/><br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalapak-Team&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=7b2fff&fire=00d4ff&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=888888)](https://github.com/Kalapak-Team)
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalapak-Team&bg_color=0d1117&color=c4b5fd&line=7b2fff&point=00d4ff&area=true&area_color=7b2fff&hide_border=true)](https://github.com/Kalapak-Team)
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
 
@@ -182,10 +190,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                   DEPLOYMENT & PLATFORMS                       -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 ## 🚀 Deployment &amp; Platforms
@@ -210,10 +214,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                         OUR GOAL                               -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 ## 🎯 Our Goal
@@ -237,10 +237,6 @@
 <br/>
 
 ---
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     COSMIC MISSION                             -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
@@ -304,9 +300,21 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     GALAXY FOOTER                              -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+
+## 🌐 Connect With Us
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kalapak--Team-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalapak-Team)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalapakteam@gmail.com)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalapakteam)
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
 
