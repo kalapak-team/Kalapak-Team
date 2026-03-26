@@ -1,14 +1,20 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=320&section=header&text=⚡%20KALAPAK%20CODE%20TEAM%20⚡&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Coding%20the%20Universe%20Since%202024%20✨&descAlignY=62&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=280&section=header&text=&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="120px" height="120px" style="border-radius:50%;border:4px solid #7b2fff;" alt="Kalapak Code Team Logo"/>
+<img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="140px" height="140px" style="border-radius:50%;border:5px solid #7b2fff;box-shadow:0 0 20px #7b2fff;" alt="Kalapak Code Team Logo"/>
 
-<br/>
+<h1>⚡ KALAPAK CODE TEAM ⚡</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=3500&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=820&height=55&lines=🚀+Building+the+Future+from+Cambodia+🇰🇭;🌌+Full-Stack+%7C+AI+%7C+Cloud+%7C+Mobile+Development;⚡+Research.+Develop.+Inspire.+Help.;🌟+Kalapak+Code+Team+—+Est.+2024" alt="Typing SVG" />
+<p><b>✨ Coding the Universe Since 2024 ✨</b></p>
+
+<p>
+  🚀 Building the Future from Cambodia 🇰🇭 &nbsp;|&nbsp;
+  🌌 Full-Stack · AI · Cloud · Mobile &nbsp;|&nbsp;
+  ⚡ Research. Develop. Inspire. Help.
+</p>
 
 <br/><br/>
 
