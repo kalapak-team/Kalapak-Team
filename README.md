@@ -1,13 +1,14 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=130&section=header" width="100%"/>
 
-<a href="https://github.com/Kalapak-Team">
-  <img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="120px" height="120px" style="border-radius:50%;border:4px solid #7b2fff;margin-top:-60px;" alt="Kalapak Code Team Logo"/>
-</a>
+<img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130" alt="Kalapak Code Team Logo"/>
 
-<h1>KALAPAK CODE TEAM</h1>
-<p><b>✨ Coding the Universe Since 2024 ✨</b></p>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=680&height=72&lines=KALAPAK+CODE+TEAM)](https://github.com/Kalapak-Team)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=C4B5FD&center=true&vCenter=true&width=540&height=42&lines=%E2%9C%A8+Coding+the+Universe+Since+2024+%E2%9C%A8;%F0%9F%9A%80+Full-Stack+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+Mobile;%E2%9A%A1+Research.+Develop.+Inspire.+Help.;%F0%9F%8C%8C+Building+the+Future+from+Cambodia)](https://github.com/Kalapak-Team)
 
 <br/>
 
