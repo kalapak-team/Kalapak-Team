@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <h2>🌌 About Kalapak Code Team</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d0a3e,100:1a0533&height=52&text=ABOUT%20KALAPAK%20CODE%20TEAM&fontSize=19&fontColor=a78bfa&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
@@ -42,11 +42,12 @@
 ---
 
 <div align="center">
-
-## 👥 Our Cosmic Crew
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d0a3e,100:1a0533&height=52&text=OUR%20COSMIC%20CREW&fontSize=19&fontColor=a78bfa&animation=fadeIn" width="100%"/>
+</div>
 
 <br/>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="25%">
@@ -111,11 +112,12 @@
 ---
 
 <div align="center">
-
-## 📊 GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d0a3e,100:1a0533&height=52&text=GITHUB%20ACTIVITY&fontSize=19&fontColor=a78bfa&animation=fadeIn" width="100%"/>
+</div>
 
 <br/>
 
+<div align="center">
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalapak-Team&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&icon_color=00d4ff&text_color=c4b5fd&ring_color=7b2fff)](https://github.com/Kalapak-Team)&nbsp;&nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalapak-Team&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&text_color=c4b5fd&langs_count=8)](https://github.com/Kalapak-Team)
 
@@ -134,41 +136,60 @@
 ---
 
 <div align="center">
-
-## 🛸 Tech Universe
-
-<br/>
-
-### 🔭 Languages &amp; Backend Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,cpp,java,php,laravel,js,react&theme=dark&perline=10" alt="Languages and Frameworks"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d0a3e,100:1a0533&height=52&text=TECH%20UNIVERSE&fontSize=19&fontColor=a78bfa&animation=fadeIn" width="100%"/>
+</div>
 
 <br/>
 
-### 🎨 Frontend &amp; Mobile
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter&theme=dark&perline=10" alt="Frontend and Mobile"/>
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+
+**🔭 Languages &amp; Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,cpp,java,php,laravel,js,react&theme=dark&perline=5" alt="Languages and Frameworks"/>
+
+</td>
+<td align="center" valign="top" width="50%">
+
+**🎨 Frontend &amp; Mobile**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter&theme=dark&perline=4" alt="Frontend and Mobile"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+
+**⚙️ DevOps &amp; Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,ubuntu,azure&theme=dark&perline=6" alt="DevOps and Cloud"/>
+
+</td>
+<td align="center" valign="top" width="50%">
+
+**🗄️ Databases &amp; Storage**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" alt="Databases and Storage"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-### ⚙️ Runtime, DevOps &amp; Cloud
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,ubuntu,azure&theme=dark&perline=10" alt="Runtime, DevOps and Cloud"/>
-
-<br/>
-
-### 🗄️ Databases &amp; Storage
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=10" alt="Databases and Storage"/>
-
-<br/>
-
-### 🏷️ More Technologies
-
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)&nbsp;
-![Microsoft Services](https://img.shields.io/badge/Microsoft%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
-![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud%20Computing-0ea5e9?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)&nbsp;
+![Microsoft Services](https://img.shields.io/badge/Microsoft%20Services-0078D4?style=flat-square&logo=microsoft&logoColor=white)&nbsp;
+![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-0ea5e9?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
+![Neon](https://img.shields.io/badge/Neon%20PostgreSQL-00E699?style=flat-square&logo=postgresql&logoColor=black)
 
 </div>
 
@@ -197,35 +218,12 @@
 ---
 
 <div align="center">
-
-## 🚀 Deployment &amp; Platforms
-
-<br/>
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)&nbsp;
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<br/>
-
-![Neon PostgreSQL](https://img.shields.io/badge/Neon%20PostgreSQL-00E699?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d0a3e,100:1a0533&height=52&text=OUR%20GOAL&fontSize=19&fontColor=a78bfa&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
----
-
 <div align="center">
-
-## 🎯 Our Goal
-
-<br/>
-
 <table>
   <tr>
     <td align="center">
@@ -245,11 +243,12 @@
 ---
 
 <div align="center">
-
-## 🌠 Our Cosmic Mission
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d0a3e,100:1a0533&height=52&text=OUR%20COSMIC%20MISSION&fontSize=19&fontColor=a78bfa&animation=fadeIn" width="100%"/>
+</div>
 
 <br/>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="20%">
@@ -307,11 +306,12 @@
 ---
 
 <div align="center">
-
-## 🌐 Connect With Us
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d0a3e,100:1a0533&height=52&text=CONNECT%20WITH%20US&fontSize=19&fontColor=a78bfa&animation=fadeIn" width="100%"/>
+</div>
 
 <br/>
 
+<div align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-Kalapak--Team-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalapak-Team)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalapakteam@gmail.com)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalapakteam)
