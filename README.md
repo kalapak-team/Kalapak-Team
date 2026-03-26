@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=130&section=header" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="130" alt="Kalapak Code Team Logo"/>
+<img src="https://avatars.githubusercontent.com/u/227959210?v=4" width="200" alt="Kalapak Code Team Logo"/>
 
 <br/>
 
