@@ -326,14 +326,20 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1500&color=7B2FFF&center=true&vCenter=true&width=620&height=40&lines=⭐+If+you+like+our+work%2C+give+us+a+star!;🌌+Together+we+code+the+universe.;🚀+Kalapak+Code+Team+—+Since+2024+🇰🇭" alt="Footer Typing"/>
+### ⭐ If you like our work, give us a star!
+
+<br/>
+
+_🌌 Together we code the universe. &nbsp;·&nbsp; 🚀 Kalapak Code Team — Since 2024 🇰🇭_
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Kalapak-Team&color=7b2fff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kalapak-Team)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Kalapak-Team?style=for-the-badge&color=7b2fff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/Kalapak-Team)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Kalapak-Team?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/Kalapak-Team)
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Kalapak-Team&color=7b2fff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kalapak-Team)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,35:7b2fff,65:0d0a3e,100:020024&height=180&section=footer&text=Kalapak%20Code%20Team%20🚀&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,35:7b2fff,65:0d0a3e,100:020024&height=160&section=footer&text=Kalapak%20Code%20Team%20🚀&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
