@@ -1,0 +1,325 @@
+<div align="center">
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      GALAXY HEADER                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:0d0a3e,55:7b2fff,100:00d4ff&height=320&section=header&text=⚡%20KALAPAK%20CODE%20TEAM%20⚡&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Coding%20the%20Universe%20Since%202024%20✨&descAlignY=62&descColor=c4b5fd" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=3500&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=820&height=55&lines=🚀+Building+the+Future+from+Cambodia+🇰🇭;🌌+Full-Stack+%7C+AI+%7C+Cloud+%7C+Mobile+Development;⚡+Research.+Develop.+Inspire.+Help.;🌟+Kalapak+Code+Team+—+Est.+2024" alt="Typing SVG" />
+
+<br/><br/>
+
+![Members](https://img.shields.io/badge/👥-4%20Members-a78bfa?style=for-the-badge&labelColor=0d1117)&nbsp;
+![Since](https://img.shields.io/badge/📅-Since%202024-00d4ff?style=for-the-badge&labelColor=0d1117)&nbsp;
+![Cambodia](https://img.shields.io/badge/🇰🇭-Cambodia-7b2fff?style=for-the-badge&labelColor=0d1117)&nbsp;
+![Status](https://img.shields.io/badge/⚡-Active-00ff88?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        ABOUT US                                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+  <h2>🌌 About Kalapak Code Team</h2>
+</div>
+
+<p align="center">
+  <b>Kalapak Code Team</b> is a passionate collective of full-stack developers from <b>Cambodia 🇰🇭</b>,
+  united by the vision of building innovative digital solutions that empower communities and push
+  the frontiers of technology. Founded in <b>2024</b>, we combine deep technical expertise with
+  curiosity, open collaboration, and a commitment to sharing knowledge.<br/><br/>
+  From the heart of Cambodia to the digital cosmos — <i>we code, we create, we inspire.</i>
+</p>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                       OUR TEAM                                 -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 👥 Our Cosmic Crew
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <!-- Replace with actual image: https://github.com/[username].png -->
+      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Khat%20Vanna&backgroundColor=7b2fff&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Khat Vanna"/>
+      <br/><br/>
+      <b>✨ Khat Vanna</b>
+      <br/>
+      <sub>👑 Founder &amp; Team Leader</sub>
+      <br/>
+      <sub>💻 Full-Stack Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FOUNDER%20%26%20LEADER-7b2fff?style=flat-square&logoColor=white" alt="Founder Badge"/>
+    </td>
+    <td align="center" width="25%">
+      <!-- Replace with actual image: https://github.com/[username].png -->
+      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Rom%20Chamraeun&backgroundColor=4f46e5&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Rom Chamraeun"/>
+      <br/><br/>
+      <b>✨ Rom Chamraeun</b>
+      <br/>
+      <sub>🚀 Co-Founder</sub>
+      <br/>
+      <sub>💻 Full-Stack Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CO--FOUNDER-4f46e5?style=flat-square&logoColor=white" alt="Co-Founder Badge"/>
+    </td>
+    <td align="center" width="25%">
+      <!-- Replace with actual image: https://github.com/[username].png -->
+      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Phuem%20Norng&backgroundColor=0ea5e9&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Phuem Norng"/>
+      <br/><br/>
+      <b>✨ Phuem Norng</b>
+      <br/>
+      <sub>🚀 Co-Founder</sub>
+      <br/>
+      <sub>💻 Full-Stack Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CO--FOUNDER-0ea5e9?style=flat-square&logoColor=white" alt="Co-Founder Badge"/>
+    </td>
+    <td align="center" width="25%">
+      <!-- Replace with actual image: https://github.com/[username].png -->
+      <img src="https://api.dicebear.com/7.x/initials/svg?seed=Pheun%20Seanghai&backgroundColor=06b6d4&radius=50&size=150&fontSize=38&fontWeight=700" width="130px" height="130px" alt="Pheun Seanghai"/>
+      <br/><br/>
+      <b>✨ Pheun Seanghai</b>
+      <br/>
+      <sub>🚀 Co-Founder</sub>
+      <br/>
+      <sub>💻 Full-Stack Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CO--FOUNDER-06b6d4?style=flat-square&logoColor=white" alt="Co-Founder Badge"/>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Tip:** Replace the profile image `src` URLs above with actual GitHub profile pictures:
+> `https://github.com/[username].png` or `https://avatars.githubusercontent.com/u/[user-id]?v=4`
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      TECH UNIVERSE                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🛸 Tech Universe
+
+<br/>
+
+### 🔭 Languages &amp; Backend Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,cpp,java,php,laravel,js,react&theme=dark&perline=10" alt="Languages and Frameworks"/>
+
+<br/>
+
+### 🎨 Frontend &amp; Mobile
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter&theme=dark&perline=10" alt="Frontend and Mobile"/>
+
+<br/>
+
+### ⚙️ Runtime, DevOps &amp; Cloud
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,ubuntu,azure&theme=dark&perline=10" alt="Runtime, DevOps and Cloud"/>
+
+<br/>
+
+### 🗄️ Databases &amp; Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=10" alt="Databases and Storage"/>
+
+<br/>
+
+### 🏷️ More Technologies
+
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)&nbsp;
+![Microsoft Services](https://img.shields.io/badge/Microsoft%20Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud%20Computing-0ea5e9?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🔬 Full Tech Stack Overview</b></summary>
+<br/>
+
+| Category                | Technologies                                      |
+| ----------------------- | ------------------------------------------------- |
+| 🐍 **Python Ecosystem** | `FastAPI` `Django` `Flask`                        |
+| 🌐 **Web Frontend**     | `HTML5` `CSS3` `JavaScript` `React` `TailwindCSS` |
+| 📱 **Mobile**           | `Flutter`                                         |
+| ⚙️ **Backend / API**    | `Node.js` `Express` `PHP` `Laravel`               |
+| 🗄️ **Databases**        | `MySQL` `PostgreSQL` `MongoDB` `Redis`            |
+| 🐳 **DevOps**           | `Docker` `Linux (Ubuntu, Rocky Linux)`            |
+| ☁️ **Cloud**            | `Azure` `Microsoft Services`                      |
+| 🔧 **Languages**        | `C++` `Java` `Python` `JavaScript`                |
+| 🧬 **ORM / DB Tools**   | `Prisma`                                          |
+
+</details>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   DEPLOYMENT & PLATFORMS                       -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🚀 Deployment &amp; Platforms
+
+<br/>
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+![Neon PostgreSQL](https://img.shields.io/badge/Neon%20PostgreSQL-00E699?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                         OUR GOAL                               -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🎯 Our Goal
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <br/>
+      <h3>🌟 &nbsp; ជីវិតដែលរស់នៅដើម្បីអ្នកដទៃ &nbsp; ទើបជាជីវិតដែលមានតម្លៃ &nbsp; 🌟</h3>
+      <br/>
+      <b><i>"A life lived for others is the only life worth living."</i></b>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     COSMIC MISSION                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🌠 Our Cosmic Mission
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/01-RESEARCH-7b2fff?style=for-the-badge&labelColor=0d1117" alt="01 Research"/>
+      <br/><br/>
+      🔭
+      <br/>
+      <b>RESEARCH</b>
+      <br/><br/>
+      <sub>Explore cutting-edge technologies &amp; scientific breakthroughs</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/02-DOCUMENT-4f46e5?style=for-the-badge&labelColor=0d1117" alt="02 Document"/>
+      <br/><br/>
+      📚
+      <br/>
+      <b>ចងក្រង</b>
+      <br/><br/>
+      <sub>Compile &amp; document knowledge for the entire community</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/03-DEVELOP-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="03 Develop"/>
+      <br/><br/>
+      ⚙️
+      <br/>
+      <b>DEVELOP</b>
+      <br/><br/>
+      <sub>Build powerful, high-quality, and impactful software solutions</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/04-SHOWCASE-06b6d4?style=for-the-badge&labelColor=0d1117" alt="04 Showcase"/>
+      <br/><br/>
+      🌟
+      <br/>
+      <b>បង្ហាញ</b>
+      <br/><br/>
+      <sub>Showcase our work and share ideas with the world</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/05-HELP_OTHERS-00d4ff?style=for-the-badge&labelColor=0d1117" alt="05 Help Others"/>
+      <br/><br/>
+      🤝
+      <br/>
+      <b>ជួយអ្នកដទៃ</b>
+      <br/><br/>
+      <sub>Uplift &amp; empower people through code and shared knowledge</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     GALAXY FOOTER                              -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1500&color=7B2FFF&center=true&vCenter=true&width=620&height=40&lines=⭐+If+you+like+our+work%2C+give+us+a+star!;🌌+Together+we+code+the+universe.;🚀+Kalapak+Code+Team+—+Since+2024+🇰🇭" alt="Footer Typing"/>
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Kalapak-Team&color=7b2fff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kalapak-Team)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,35:7b2fff,65:0d0a3e,100:020024&height=180&section=footer&text=Kalapak%20Code%20Team%20🚀&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
+
+</div>
