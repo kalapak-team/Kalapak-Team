@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=2500&color=FFFFFF&center=true&vCenter=true&width=720&height=72&lines=KALAPAK+CODE+TEAM)](https://github.com/Kalapak-Team)
+<img src="./assets/galaxy-title.svg" alt="KALAPAK CODE TEAM" width="720"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&height=42&lines=%E2%9C%A8+Coding+the+Universe+Since+2024+%E2%9C%A8;%F0%9F%9A%80+Full-Stack+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+Mobile;%E2%9A%A1+Research.+Develop.+Inspire.+Help.;%F0%9F%8C%8C+Building+the+Future+from+Cambodia)](https://github.com/Kalapak-Team)
 

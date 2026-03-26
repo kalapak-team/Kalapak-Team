@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90">
+  <defs>
+    <linearGradient id="galaxy" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color"
+          values="#7b2fff;#ff00cc;#00d4ff;#ff69b4;#c084fc;#7b2fff"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="20%">
+        <animate attributeName="stop-color"
+          values="#ff00cc;#00d4ff;#ff69b4;#c084fc;#7b2fff;#ff00cc"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%">
+        <animate attributeName="stop-color"
+          values="#00d4ff;#ff69b4;#c084fc;#7b2fff;#ff00cc;#00d4ff"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%">
+        <animate attributeName="stop-color"
+          values="#ff69b4;#c084fc;#7b2fff;#ff00cc;#00d4ff;#ff69b4"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="80%">
+        <animate attributeName="stop-color"
+          values="#c084fc;#7b2fff;#ff00cc;#00d4ff;#ff69b4;#c084fc"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color"
+          values="#9400d3;#ff00cc;#7b2fff;#ff69b4;#00d4ff;#9400d3"
+          dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softglow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Glow shadow layer -->
+  <text x="400" y="65"
+    text-anchor="middle"
+    font-family="'Arial Black','Impact',sans-serif"
+    font-size="46" font-weight="900" letter-spacing="5"
+    fill="url(#galaxy)"
+    filter="url(#softglow)"
+    opacity="0.7">KALAPAK CODE TEAM</text>
+
+  <!-- Main text layer -->
+  <text x="400" y="65"
+    text-anchor="middle"
+    font-family="'Arial Black','Impact',sans-serif"
+    font-size="46" font-weight="900" letter-spacing="5"
+    fill="url(#galaxy)"
+    filter="url(#glow)">KALAPAK CODE TEAM</text>
+</svg>
