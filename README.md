@@ -118,6 +118,7 @@
 <br/>
 
 <div align="center">
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalapak-Team&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&icon_color=00d4ff&text_color=c4b5fd&ring_color=7b2fff)](https://github.com/Kalapak-Team)&nbsp;&nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalapak-Team&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&text_color=c4b5fd&langs_count=8)](https://github.com/Kalapak-Team)
 
@@ -312,6 +313,7 @@
 <br/>
 
 <div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-Kalapak--Team-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalapak-Team)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalapakteam@gmail.com)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalapakteam)
