@@ -126,7 +126,7 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kalapak-Team&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=7b2fff&fire=00d4ff&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=888888)](https://github.com/Kalapak-Team)
+[![GitHub Streak](./assets/github-streak.svg)](https://github.com/Kalapak-Team)
 
 <br/><br/>
 
