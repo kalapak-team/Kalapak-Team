@@ -121,12 +121,12 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalapak-Team&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&icon_color=00d4ff&text_color=c4b5fd&ring_color=7b2fff)](https://github.com/Kalapak-Team)&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalapak-Team&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&text_color=c4b5fd&langs_count=8)](https://github.com/Kalapak-Team)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Kalapak-Team&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&icon_color=00d4ff&text_color=c4b5fd&ring_color=7b2fff)](https://github.com/Kalapak-Team)&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Kalapak-Team&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&text_color=c4b5fd&langs_count=8)](https://github.com/Kalapak-Team)
 
 <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalapak-Team&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=7b2fff&fire=00d4ff&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=888888)](https://github.com/Kalapak-Team)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kalapak-Team&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=7b2fff&fire=00d4ff&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=888888)](https://github.com/Kalapak-Team)
 
 <br/><br/>
 
